@@ -77,6 +77,8 @@
 <button id="igTabProfile" aria-label="Profile"><span class="ig-tab-avatar"><img src="assets/instagram/jsungchan-avatar.jpg" alt=""></span></button>
 </div><div class="homebar"></div></section></main>
 <script>
+// 每次打开或刷新页面都从初始状态开始：清掉上一次游玩存下的本地状态
+try{['ig-like-state-v1','ig-jsungchan-archive-v1','ig-jsungchan-archive-tour-v1'].forEach(k=>localStorage.removeItem(k))}catch{}
 const CONFIG = {
   wallpaper: "",
   lockPasscode: "319913",
