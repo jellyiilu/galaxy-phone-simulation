@@ -1,0 +1,8 @@
+Generator: built-in image_gen
+Saved image: assets/instagram/ahandsomeguy-cafe-daily.png
+
+Final prompt:
+Use case: photorealistic-natural. Create one square 1:1 candid smartphone photo for a fictional private Instagram user's everyday cafe post. A small lived-in Seoul neighborhood cafe in autumn, one iced latte in a clear unbranded glass and a slightly crumpled paper napkin on a dark wooden table beside a rain-speckled window. A corner of a dark jacket sleeve casually enters the bottom edge; no visible face, no identifiable person, no partner, no staged romantic props. In the background a soft out-of-focus neighborhood street and warm afternoon light. Natural slightly imperfect handheld framing, subtle phone-camera grain, realistic reflections, restrained warm brown and charcoal tones, believable casual social-media snapshot rather than professional product photography. No text, no logos, no watermark, no collage, no Instagram UI. This is a project asset for a fictional account named Ahandsomeguy.
+
+Breakup statement asset: assets/instagram/ahandsomeguy-breakup.svg
+The statement is a code-native SVG text graphic rather than a generated photograph.
