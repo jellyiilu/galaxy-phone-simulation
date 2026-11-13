@@ -9,9 +9,9 @@
 <p>正在清空模拟器的本地状态…</p>
 <script>
 try {
-  ['ig-jsungchan-archive-v1', 'ig-jsungchan-archive-tour-v1', 'ig-like-state-v1']
+  ['ig-jsungchan-archive-v1', 'ig-like-state-v1']
     .forEach(key => localStorage.removeItem(key));
-  location.replace('./index.html?v=20261108-reset');
+  location.replace('./index.html?v=20261113-reset');
 } catch (error) {
   document.body.textContent = '无法清空本地状态，请确认此页面与模拟器使用同一预览地址。';
 }
